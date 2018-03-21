@@ -1,4 +1,4 @@
-# coding_project
+# frazier_coding_project
 
 The purpose of this code is to automate the analysis process of high-performance liquid chromatography (HPLC) tandem-mass spectrometry (MS/MS) data.
 
